@@ -50,3 +50,6 @@ To start the development server, run:
 
 ```sh
 npm start
+
+## Screenshots
+
